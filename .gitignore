@@ -6,5 +6,4 @@ dist
 .env.local
 .env.*.local
 local.db
-server/
 start.bat
